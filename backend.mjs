@@ -1,5 +1,5 @@
 export const fn = () => {
-	console.log('Hola');
+	console.log('Holas');
 }
 
 export const dontUse = () => console.log('Dont use');
